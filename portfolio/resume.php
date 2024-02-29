@@ -139,7 +139,8 @@
                         <th style="vertical-align:middle">Skills</th>
                         <td>
                              <li>DBMS </li>
-                             <LI>Core PHP  </LI>
+                             <li>Core PHP  </li>
+                             <li>MySql</li>li
                              <li>Web Development</li>
                              <li>JavaScript</li>
                              <li>Excel</li>
@@ -157,7 +158,11 @@
                              Job role : <b>Web developer(Internship)</b><br>
                              Company : <b>Peace Solution</b><br>
                              Duration : <b>20.01.2022</b> to <b>20.02.2022</b><br>
-                             <a href="Experiencecertificate.pdf" class="btn btn-sm btn-success">Experience Certificate</a>
+                             <a href="Experiencecertificate.pdf" class="btn btn-sm btn-success">Experience Certificate</a><hr>
+                             Job role : <b>Web developer(Internship)</b><br>
+                             Company : <b>AMTRON</b><br>
+                             Duration : <b>21.02.2024</b> to <b>21.08.2024</b><br>
+                             <a href="" class="btn btn-sm btn-success">Experience Certificate</a>
                         </td>
                     </tr>
                 </table>
